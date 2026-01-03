@@ -59,7 +59,4 @@ In the terminal, while in the project directory, run the following command:
 ```bash
 docker build -t todo-app-image .
 
-
-
-
-
+docker run -p 5173:5173 todo-app
