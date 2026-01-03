@@ -50,7 +50,14 @@ A minimalist, responsive Todo List application built with React and Tailwind CSS
 * Developed by Aleyna as part of the AI Coding Assignment.
 * Special thanks to the Cursor AI team for the "Composer" feature which accelerated the development process.
 
+## 🐳 Running with Docker (Dockerization)
 
+To run this project in a Docker container, follow these steps:
+
+1. **Build the Docker Image:**
+In the terminal, while in the project directory, run the following command:
+```bash
+docker build -t todo-app-image .
 
 
 
